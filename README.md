@@ -1,4 +1,4 @@
 # apnafriends-demo
 This is my first Repository.
 <br>
-Author - Md Tajuddin
+Author - Md Tajuddin(MRIT)
